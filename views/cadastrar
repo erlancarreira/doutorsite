@@ -1,0 +1,26 @@
+<section class="container stick-footer">
+
+<div class="container-login">
+
+<h2 class="option-cad">Cadastre-se</h2>
+  
+    <div class="btn-cad">
+      <h3>Precisa contratar um Freelancer?</h3>   
+      <a href="#">Publique um projeto, é grátis</a>   
+    </div>
+
+ 
+    <div class="btn-cad">   
+      <h3>Você quer trabalhar em um projeto?</h3>
+      <a href="#">Trabalhe como freelancer</a>   
+    </div>
+   
+   <div class="line">
+   </div> 
+
+    <p class="possui-cad">Já possui um cadastro? Faça  <a href="login.php" style="color:  #253556;">login</a>  agora mesmo</p>
+</div>
+
+
+</section>
+
